@@ -1,0 +1,1 @@
+./PhoenixMiner -pool ethash.unmineable.com:3333 -wal BTT:TJyxo2hMmnEABg4hpk423SLWVmECatdsLC.phoenix -pass x -mi 14 -gt 400 -sci 1000
